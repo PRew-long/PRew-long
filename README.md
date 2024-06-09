@@ -36,9 +36,8 @@
 ![](https://cdn.luogu.com.cn/upload/image_hosting/mv9b20lq.png?x-oss-process=image/resize,m_lfit,h_170,w_225)
 ***
 
-![6](https://cdn.luogu.com.cn/upload/image_hosting/u5eb7yrp.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/u5eb7yrp.png)
 
 ## 好用的网站（置底
 
 ### [好用的图论制图站](https://csacademy.com/app/graph_editor/)   [笔记Note.ms](https://note.ms/) [FreeMusic](http://tools.liumingye.cn/music/#//) [数字恶臭器](https://lab.magiconch.com/homo/)
-![](https://img.paulzzh.com/touhou/random)
